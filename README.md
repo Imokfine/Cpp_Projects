@@ -2,5 +2,5 @@
 A collection of my C++ projects.
 
 ## Project list
-* [Parallel kmeans, meanshift clustering algorithm](https://github.com/Imokfine/HPC_FinalProject/tree/main)
-* [Web Server](https://github.com/Imokfine/myWebServer/tree/master)
+* [并行Kmeans、Meanshift算法 Parallel Kmeans, Meanshift clustering algorithm](https://github.com/Imokfine/HPC_FinalProject/tree/main)
+* [网络服务器 WebServer](https://github.com/Imokfine/myWebServer/tree/master)
